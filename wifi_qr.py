@@ -1,7 +1,7 @@
 import qrcode 
 
-ssid="JioFiber-CNrfC_5G"
-password = "Aihohiewoorie0Ph"
+ssid="ibe"
+password = "edfdfwoorie"
 security_type = "WPA"
 
 wifi_data = f"WIFI:T:{security_type};S:{ssid};P:{password};;"
